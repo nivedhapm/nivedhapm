@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjYyNTkwNzYsIm5iZiI6MTc2NjI1ODc3NiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjIwVDE5MjYxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiNDg4Mzk4OWQ4MGM0YTM2MjdmNGNiZGJiYWE5MjBjMTNjYjIxM2UzN2IwYWQzMzQyODc0NGVkNzkwODIyMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qMbL4hAgB2ti0ybTygBHt_NyRE9umKTerrjQE_X0wJA" width="70%"/>
+</p>
 
 <h3>Hello Fellow < Developers/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
@@ -57,7 +59,7 @@
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3>📊 Statistical Data</h3>
+<h3>Statistical Data</h3>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true&layout=compact"
     alt="nivedhapm" />
