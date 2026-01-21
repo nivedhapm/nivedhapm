@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=808080&size=40&height=130&width=800&lines=Heyyyy!+I'm+Nivedha+%3C3;Computer+Science+Engineering+graduate;Aalim+Muhammed+Salegh+College;Software+Developer+Intern+@+ZOHO;Welcome+to+my+profile+!">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-52-blueviolet?style=for-the-badge&logo=github&labelColor=black&color=4338ca" alt="Profile Views"/>
-</p>
+</p> -->
 
 
 <p  align="center">
@@ -18,8 +18,8 @@
 <h3>Contribution Statistics</h3>
 <p align="left">
   <a href="https://nivedhapm.vercel.app/">
-    <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedhapm&theme=blueberry&hide_border=true" />
+    <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=86400" />
+    <img width="51.3%" src="https://github-readme-streak-stats.vercel.app/?user=nivedhapm&theme=blueberry&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <h3>Statistical Data</h3>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true&layout=compact&cache_seconds=86400"
     alt="nivedhapm" />
     <p align='right'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
