@@ -19,7 +19,7 @@
 <p align="left">
   <a href="https://nivedhapm.vercel.app/">
     <img width="48.2%" src="https://github-readme-stats.vercel.app/api?username=nivedhapm&show_icons=true&theme=blueberry&hide_border=true&cache_seconds=86400" />
-    <img width="51.3%" src="https://github-readme-streak-stats.vercel.app/?user=nivedhapm&theme=blueberry&hide_border=true&cache_seconds=86400" />
+    <img width="51.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedhapm&theme=blueberry&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
